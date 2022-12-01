@@ -1,43 +1,9 @@
-
-```JavaScript
-const aboutMe = {
-  name: 'Vitor Augusto de Mattos',
-  age: '28',
-  rank: 'Software Engineer','Front-End',
-  country: 'Brazil',
-  hobbies: [
-     'CrossFit',
-     'Play games',
-     'Listen to music',
-  ],
-  softSkills: [
-    'communication',
-    'teamwork',
-    'leadership',
-    'organization',
-    'creative'
-  ]
-};
-
-function contactMe() {
-  return {
-    email: 'vitoraugustodemattos@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/viitoraugusto/',
-    whatsapp: '+55 11 97135-1731',
-  }
-}
-```
-
-## Contatos
-
-
-<a href="https://www.linkedin.com/in/viitoraugusto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/ViitorAugusto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+/img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <br>
 
-## Tecnologias
+
 
 <h1 align="center"> Core </h1>
 <section align="center">
@@ -98,8 +64,4 @@ function contactMe() {
 </div>
 
 <br>
-
-
-
-
 
