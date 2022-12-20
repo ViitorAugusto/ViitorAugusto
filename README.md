@@ -1,3 +1,6 @@
+<h1 align="center"> Olá, meu nome é Vitor Augusto </h1>
+<p>A tecnologia é a minha maneira de mudar o mundo e é por isso que sou um vou me tornar Engenheiro de software.</p>
+<p>Tenho conhecimento em desenvolvimento front-end, Back-end, Possuo um perfil comunicativo, analítico e criativo, isso me permite desenvolver de uma forma efetiva, atingindo os objetivos propostos com agilidade e qualidade.</p>
 
 ```JavaScript
 const aboutMe = {
