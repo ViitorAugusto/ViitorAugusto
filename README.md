@@ -1,11 +1,6 @@
 <h1 align="center"> Olá, meu nome é Vitor Augusto </h1>
-<p>Como Engenheiro de Software, eu sou dedicado a resolver problemas complexos através da tecnologia. Desde cedo, fui atraído pela capacidade da tecnologia de mudar positivamente a vida das pessoas. E, ao longo dos anos, desenvolvi habilidades técnicas sólidas em linguagens de programação.
-
-Mas, para além das habilidades técnicas, acredito que as habilidades interpessoais são igualmente importantes para o sucesso. Comunicação clara e eficaz, colaboração e trabalho em equipe são habilidades que valorizam e praticam diariamente, pois entendo que elas são cruciais para garantir que projetos sejam executados de forma eficiente e eficaz.
-
-Além disso, mantenho-me atualizado com as tendências e tecnologias, pois sei que a indústria de tecnologia é uma das mais dinâmicas e em constante evolução. Ser flexível e estar sempre disposto a aprender é fundamental para continuar a desenvolver minhas habilidades e aplicá-las em projetos cada vez mais complexos.
-
-Em suma, sou apaixonado pelo meu trabalho como Desenvolvedor e acredito que a combinação de habilidades técnicas e interpessoais é o que me permite realizar projetos bem-sucedidos e construir uma carreira gratificante e significativa.</p>
+<p>
+Sou apaixonado pelo meu trabalho como Desenvolvedor e acredito que a combinação de habilidades técnicas e interpessoais é o que me permite realizar projetos bem-sucedidos e construir uma carreira gratificante e significativa.</p>
 
 ```JavaScript
 const aboutMe = {
